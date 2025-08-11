@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801432222751",
+    "project_id": "notebook-abc42",
+    "storage_bucket": "notebook-abc42.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801432222751:android:29024d0d652e0a3a3ce92a",
+        "android_client_info": {
+          "package_name": "com.example.notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4jzlgm2oTEMca3NwywKeFrEIHQByM1Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
